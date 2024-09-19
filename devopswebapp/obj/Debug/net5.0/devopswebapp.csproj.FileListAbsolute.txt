@@ -46,3 +46,4 @@ c:\Users\slmba\devopshb\Last Demo\devopswebapp\obj\Debug\net5.0\devopswebapp.pdb
 c:\Users\slmba\devopshb\Last Demo\devopswebapp\obj\Debug\net5.0\devopswebapp.genruntimeconfig.cache
 c:\Users\slmba\devopshb\Last Demo\devopswebapp\obj\Debug\net5.0\ref\devopswebapp.dll
 c:\Users\slmba\devopshb\Last Demo\devopswebapp\obj\Debug\net5.0\devopswe.07673323.Up2Date
+C:\Users\slmba\devopshb\Last Demo\devopswebapp\obj\Debug\net5.0\devopswebapp.sourcelink.json

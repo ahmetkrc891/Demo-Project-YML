@@ -1,5 +1,5 @@
 variable "region" {
-    default = "southafricanorth"
+    default = "westeurope"
 }
 
 variable "appserviceplanname" {
@@ -11,6 +11,6 @@ variable "appservicename" {
 }
 
 variable "resourcegroupname" {
-    default = "azuredevopscourserg"
+    default = "devopscoursehb_group"
     type = string
 }
